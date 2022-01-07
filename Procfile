@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser web_scraper_copper_prices.ipynb
+web: voila --port=$PORT --no-browser app.ipynb
